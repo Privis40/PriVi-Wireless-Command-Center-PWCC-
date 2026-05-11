@@ -1,6 +1,6 @@
 <div align="center">
 
-![PWCC Dashboard](Privi-PWCC.PNG)
+![PWCC Dashboard](PriVi-PWCC.PNG)
 
 </div>
 
