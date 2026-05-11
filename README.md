@@ -7,8 +7,6 @@
 
 </div>
 
-
-# 🛡️ PriVi-Wireless Command Center (PWCC)
 **Centralized RF Intelligence & Professional Audit Platform**
 
 ### 📝 Short Description
