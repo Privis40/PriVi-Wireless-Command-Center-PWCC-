@@ -65,8 +65,8 @@ sudo airmon-ng start wlan0
 ## Installation
 
 ```bash
-git clone https://github.com/Privis40/PriVi-Wireless-Command-Center-PWCC-.git
-cd PriVi-Wireless-Command-Center-PWCC-
+git clone https://github.com/Privis40/PriVi-Wireless-Command-Center.git
+cd PriVi-Wireless-Command-Center
 pip install -r requirements.txt
 ```
 
